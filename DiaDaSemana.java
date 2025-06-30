@@ -8,6 +8,7 @@ public class DiaDaSemana {
         int number = scanner.nextInt();
 
         switch (number) {
+            // case 1, 7 -> System.out.println("Final de semana");
             case 1 -> System.out.println("Domingo");
             case 2 -> System.out.println("Segunda-feira");
             case 3 -> System.out.println("Terça-feira");
